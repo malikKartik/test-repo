@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34c0e548.chunk.css",
+    "main.js": "/static/js/main.91d83073.chunk.js",
+    "main.js.map": "/static/js/main.91d83073.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
+    "static/js/2.b98a593f.chunk.js": "/static/js/2.b98a593f.chunk.js",
+    "static/js/2.b98a593f.chunk.js.map": "/static/js/2.b98a593f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.13a05b148efe334490e7afad3ad6a345.js": "/precache-manifest.13a05b148efe334490e7afad3ad6a345.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.34c0e548.chunk.css.map": "/static/css/main.34c0e548.chunk.css.map",
+    "static/js/2.b98a593f.chunk.js.LICENSE.txt": "/static/js/2.b98a593f.chunk.js.LICENSE.txt",
+    "static/media/Capture.PNG": "/static/media/Capture.75914da4.PNG",
+    "static/media/dashboard.svg": "/static/media/dashboard.b8d66617.svg",
+    "static/media/doc.svg": "/static/media/doc.37a56acc.svg",
+    "static/media/document.svg": "/static/media/document.22478554.svg",
+    "static/media/home.svg": "/static/media/home.0d5203b3.svg",
+    "static/media/img.svg": "/static/media/img.d511ba80.svg",
+    "static/media/installation.svg": "/static/media/installation.d2feca42.svg",
+    "static/media/letterHead.png": "/static/media/letterHead.b2c48d48.png",
+    "static/media/logo-full.png": "/static/media/logo-full.5e3fd4f1.png",
+    "static/media/logoicon.png": "/static/media/logoicon.f151a609.png",
+    "static/media/logotext.png": "/static/media/logotext.876fb2da.png",
+    "static/media/machinery.svg": "/static/media/machinery.19dcde0f.svg",
+    "static/media/material.svg": "/static/media/material.5b1cb73f.svg",
+    "static/media/menu.svg": "/static/media/menu.0f699da9.svg",
+    "static/media/pdf.svg": "/static/media/pdf.7d7b22ee.svg",
+    "static/media/project.svg": "/static/media/project.9840dacf.svg",
+    "static/media/user.svg": "/static/media/user.9039b8ea.svg",
+    "static/media/users.svg": "/static/media/users.cabce716.svg",
+    "static/media/vendor.svg": "/static/media/vendor.0fa2dfe9.svg",
+    "static/media/vendor1.svg": "/static/media/vendor1.8e124ac7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/js/2.b98a593f.chunk.js",
+    "static/css/main.34c0e548.chunk.css",
+    "static/js/main.91d83073.chunk.js"
+  ]
+}
